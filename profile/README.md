@@ -1,5 +1,3 @@
 ## Extralt
 
-Vibe scraping, as scale.
-
-[extralt.com](https://extralt.com)
+The data layer for ecommerce intelligence.
